@@ -3,9 +3,9 @@ body{
 }
 
 .button {
-    background-color: #78da58; /* Green */
+    background-color: #83e461; /* Green */
     border-radius: 30px;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
